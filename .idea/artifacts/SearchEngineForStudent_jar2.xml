@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="SearchEngineForStudent:jar2">
+    <output-path>$PROJECT_DIR$/bin/artifacts/SearchEngineForStudent_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="SearchEngineForStudent.jar">
+        <element id="module-output" name="SearchEngineForStudent" />
+      </element>
+    </root>
+  </artifact>
+</component>
