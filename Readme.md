@@ -10,4 +10,4 @@
 
 进入SearchEngineForStudent/src/run目录，编译运行App，然后跟随cmd打印的提示运行即可。
 
-用于搜索的文档都在S用户可以在SearchEngineForStudent/text文件夹中，用户可自行添加或者删除txt文件。
+用于搜索的文档都在SearchEngineForStudent/text文件夹中，用户可自行添加或者删除txt文件。
